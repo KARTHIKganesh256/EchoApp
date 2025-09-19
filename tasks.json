@@ -1,0 +1,223 @@
+[
+  {
+    "title": "Setup GitHub repository and project board",
+    "body": "Sprint 1 – Setup & Foundations",
+    "assignees": ["Member1"],
+    "labels": ["EchoApp", "Sprint1"]
+  },
+  {
+    "title": "Install React + Vite + Tailwind",
+    "body": "Sprint 1 – Setup & Foundations",
+    "assignees": ["Member2"],
+    "labels": ["EchoApp", "Sprint1"]
+  },
+  {
+    "title": "Configure ESLint + Prettier",
+    "body": "Sprint 1 – Setup & Foundations",
+    "assignees": ["Member3"],
+    "labels": ["EchoApp", "Sprint1"]
+  },
+  {
+    "title": "Setup Firebase / Supabase backend",
+    "body": "Sprint 1 – Setup & Foundations",
+    "assignees": ["Member4"],
+    "labels": ["EchoApp", "Sprint1"]
+  },
+  {
+    "title": "Basic folder structure & boilerplate code",
+    "body": "Sprint 1 – Setup & Foundations",
+    "assignees": ["Member5"],
+    "labels": ["EchoApp", "Sprint1"]
+  },
+  {
+    "title": "Setup GitHub Actions CI/CD",
+    "body": "Sprint 1 – Setup & Foundations",
+    "assignees": ["Member6"],
+    "labels": ["EchoApp", "Sprint1"]
+  },
+
+  {
+    "title": "Implement Login & Registration pages",
+    "body": "Sprint 2 – Authentication & Layout",
+    "assignees": ["Member1"],
+    "labels": ["EchoApp", "Sprint2"]
+  },
+  {
+    "title": "Authentication with Firebase (Email/Google)",
+    "body": "Sprint 2 – Authentication & Layout",
+    "assignees": ["Member2"],
+    "labels": ["EchoApp", "Sprint2"]
+  },
+  {
+    "title": "Build Navbar & Sidebar layout",
+    "body": "Sprint 2 – Authentication & Layout",
+    "assignees": ["Member3"],
+    "labels": ["EchoApp", "Sprint2"]
+  },
+  {
+    "title": "Dark mode & responsive design setup",
+    "body": "Sprint 2 – Authentication & Layout",
+    "assignees": ["Member4"],
+    "labels": ["EchoApp", "Sprint2"]
+  },
+  {
+    "title": "User profile data schema",
+    "body": "Sprint 2 – Authentication & Layout",
+    "assignees": ["Member5"],
+    "labels": ["EchoApp", "Sprint2"]
+  },
+  {
+    "title": "Connect Navbar with routes (React Router)",
+    "body": "Sprint 2 – Authentication & Layout",
+    "assignees": ["Member6"],
+    "labels": ["EchoApp", "Sprint2"]
+  },
+
+  {
+    "title": "Timeline feed (posts, events, notes)",
+    "body": "Sprint 3 – Core Features",
+    "assignees": ["Member1"],
+    "labels": ["EchoApp", "Sprint3"]
+  },
+  {
+    "title": "Allow media upload (images, videos)",
+    "body": "Sprint 3 – Core Features",
+    "assignees": ["Member2"],
+    "labels": ["EchoApp", "Sprint3"]
+  },
+  {
+    "title": "Personal Notes feature",
+    "body": "Sprint 3 – Core Features",
+    "assignees": ["Member3"],
+    "labels": ["EchoApp", "Sprint3"]
+  },
+  {
+    "title": "Edit & delete posts",
+    "body": "Sprint 3 – Core Features",
+    "assignees": ["Member4"],
+    "labels": ["EchoApp", "Sprint3"]
+  },
+  {
+    "title": "User Profile Page UI",
+    "body": "Sprint 3 – Core Features",
+    "assignees": ["Member5"],
+    "labels": ["EchoApp", "Sprint3"]
+  },
+  {
+    "title": "Basic Notification system",
+    "body": "Sprint 3 – Core Features",
+    "assignees": ["Member6"],
+    "labels": ["EchoApp", "Sprint3"]
+  },
+
+  {
+    "title": "Search & Filter memories",
+    "body": "Sprint 4 – Enhancements",
+    "assignees": ["Member1"],
+    "labels": ["EchoApp", "Sprint4"]
+  },
+  {
+    "title": "UI/UX improvements for timeline",
+    "body": "Sprint 4 – Enhancements",
+    "assignees": ["Member2"],
+    "labels": ["EchoApp", "Sprint4"]
+  },
+  {
+    "title": "Favorites & bookmarks",
+    "body": "Sprint 4 – Enhancements",
+    "assignees": ["Member3"],
+    "labels": ["EchoApp", "Sprint4"]
+  },
+  {
+    "title": "Settings Page (privacy, account)",
+    "body": "Sprint 4 – Enhancements",
+    "assignees": ["Member4"],
+    "labels": ["EchoApp", "Sprint4"]
+  },
+  {
+    "title": "Error handling & toast alerts",
+    "body": "Sprint 4 – Enhancements",
+    "assignees": ["Member5"],
+    "labels": ["EchoApp", "Sprint4"]
+  },
+  {
+    "title": "Accessibility improvements",
+    "body": "Sprint 4 – Enhancements",
+    "assignees": ["Member6"],
+    "labels": ["EchoApp", "Sprint4"]
+  },
+
+  {
+    "title": "AI Memory Summarizer (using ChatGPT/Gemini)",
+    "body": "Sprint 5 – AI & Smart Features",
+    "assignees": ["Member1"],
+    "labels": ["EchoApp", "Sprint5"]
+  },
+  {
+    "title": "AI-powered Personal Assistant (search memories)",
+    "body": "Sprint 5 – AI & Smart Features",
+    "assignees": ["Member2"],
+    "labels": ["EchoApp", "Sprint5"]
+  },
+  {
+    "title": "Smart Recommendations (related notes/events)",
+    "body": "Sprint 5 – AI & Smart Features",
+    "assignees": ["Member3"],
+    "labels": ["EchoApp", "Sprint5"]
+  },
+  {
+    "title": "Voice input for creating memories",
+    "body": "Sprint 5 – AI & Smart Features",
+    "assignees": ["Member4"],
+    "labels": ["EchoApp", "Sprint5"]
+  },
+  {
+    "title": "Optimize performance with caching",
+    "body": "Sprint 5 – AI & Smart Features",
+    "assignees": ["Member5"],
+    "labels": ["EchoApp", "Sprint5"]
+  },
+  {
+    "title": "Integrate AI APIs securely",
+    "body": "Sprint 5 – AI & Smart Features",
+    "assignees": ["Member6"],
+    "labels": ["EchoApp", "Sprint5"]
+  },
+
+  {
+    "title": "End-to-End testing (Cypress/Playwright)",
+    "body": "Sprint 6 – Final Testing & Deployment",
+    "assignees": ["Member1"],
+    "labels": ["EchoApp", "Sprint6"]
+  },
+  {
+    "title": "Bug fixes & QA round",
+    "body": "Sprint 6 – Final Testing & Deployment",
+    "assignees": ["Member2"],
+    "labels": ["EchoApp", "Sprint6"]
+  },
+  {
+    "title": "Prepare documentation (README, setup guide)",
+    "body": "Sprint 6 – Final Testing & Deployment",
+    "assignees": ["Member3"],
+    "labels": ["EchoApp", "Sprint6"]
+  },
+  {
+    "title": "Deploy app to Vercel",
+    "body": "Sprint 6 – Final Testing & Deployment",
+    "assignees": ["Member4"],
+    "labels": ["EchoApp", "Sprint6"]
+  },
+  {
+    "title": "Final presentation slides & demo video",
+    "body": "Sprint 6 – Final Testing & Deployment",
+    "assignees": ["Member5"],
+    "labels": ["EchoApp", "Sprint6"]
+  },
+  {
+    "title": "Team retrospective & project report",
+    "body": "Sprint 6 – Final Testing & Deployment",
+    "assignees": ["Member6"],
+    "labels": ["EchoApp", "Sprint6"]
+  }
+]
